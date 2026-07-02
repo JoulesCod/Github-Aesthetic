@@ -46,7 +46,7 @@ students = 72
 + Esta línea aparecerá con fondo verde (se añade un + al inicio)
 - Esta línea aparecerá con fondo rojo (se añade un - al inicio)
 ```
-```diff
+```C
 struct Exam {
     char *name;
     int students;
