@@ -15,6 +15,15 @@ Este es un texto normal pero con <mark>palabras resaltadas</mark>.
 ```javascript
 const mensaje = "Hola Mundo";
 ```
+```python
+exam = {
+    "Exam": "First Midterm",
+    "Students": 72,
+    "Passed (4-5)": 6,
+    "Passed (6+)": 23,
+    "Failed": 43
+}
+```
 ```diff
 + Esta línea aparecerá con fondo verde (se añade un + al inicio)
 - Esta línea aparecerá con fondo rojo (se añade un - al inicio)
