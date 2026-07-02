@@ -16,6 +16,7 @@ Java
 public class ExamStats {
 
     public static void main(String[] args) {
+    
         int students = 72;
         int failed = 43;
 
