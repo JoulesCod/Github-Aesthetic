@@ -24,11 +24,8 @@ exam = {
 ```
 ```python
 exam = "First Midterm"
-
 students = 72
-passed_4_5 = 6
-passed_6_plus = 23
-failed = 43
+
 ```
 ```diff
 + Esta línea aparecerá con fondo verde (se añade un + al inicio)
