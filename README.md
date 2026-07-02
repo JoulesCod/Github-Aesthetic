@@ -19,9 +19,7 @@ const mensaje = "Hola Mundo";
 exam = {
     "Exam": "First Midterm",
     "Students": 72,
-    "Passed (4-5)": 6,
-    "Passed (6+)": 23,
-    "Failed": 43
+    parcial 3
 }
 ```
 ```diff
