@@ -12,9 +12,22 @@ Este es un texto normal pero con <mark>palabras resaltadas</mark>.
 <br>
 <br>
 
+Java
+public class ExamStats {
+
+    public static void main(String[] args) {
+        int students = 72;
+        int failed = 43;
+
+    }
+
+}
+
+JavaScript
 ```javascript
 const mensaje = "Hola Mundo";
 ```
+Python
 ```python
 exam = {
     "Exam": "First Midterm",
