@@ -12,19 +12,20 @@ Este es un texto normal pero con <mark>palabras resaltadas</mark>.
 <br>
 <br>
 
-Java
-
-
+```java
 public class ExamStats {
 
     public static void main(String[] args) {
-    
+
         int students = 72;
+        int passed4to5 = 6;
+        int passed6Plus = 23;
         int failed = 43;
 
     }
 
 }
+```
 
 JavaScript
 ```javascript
