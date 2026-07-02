@@ -14,9 +14,7 @@ Este es un texto normal pero con <mark>palabras resaltadas</mark>.
 
 ```java
 public class ExamStats {
-
     public static void main(String[] args) {
-
         int students = 72;
         int passed4to5 = 6;
         int passed6Plus = 23;
