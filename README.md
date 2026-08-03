@@ -86,6 +86,7 @@ sudo rm -rf sleep
 
 ---
 6. Líneas divisorias escribiendo ---
+❀ ───────────────────────── ❀
 ---
 
 ---
